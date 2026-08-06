@@ -8,6 +8,7 @@ Practical cybersecurity labs, CTF write-ups and academic projects.
 |---|---|---|
 | [Do Not Disturb](tryhackme/do-not-disturb/README.md) | NoSQL injection, EJS SSTI, Node.js Inspector and Linux privilege escalation | Public |
 | [Towel on the Sunbed](tryhackme/towel-on-the-sunbed/README.md) | Race conditions, Burp Suite, parallel requests | Public |
+| [CryptoCabana](tryhackme/cryptocabana/README.md) | Azure Storage, SAS tokens, service principals and Key Vault secret versions | Public |
 
 ## About me
 
