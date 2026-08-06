@@ -6,7 +6,8 @@ Practical cybersecurity labs, CTF write-ups and academic projects.
 
 | Challenge | Topics | Status |
 |---|---|---|
-| [Do Not Disturb](tryhackme/do-not-disturb/README.md) | NoSQL injection, EJS SSTI, Node.js Inspector and Linux privilege escalation | Completed – private |
+| [Do Not Disturb](tryhackme/do-not-disturb/README.md) | NoSQL injection, EJS SSTI, Node.js Inspector and Linux privilege escalation | Public |
+| [Towel on the Sunbed](tryhackme/towel-on-the-sunbed/README.md) | Race conditions, Burp Suite, parallel requests | Public |
 
 ## About me
 
