@@ -10,6 +10,7 @@ Practical cybersecurity labs, CTF write-ups and academic projects.
 | [Towel on the Sunbed](Tryhackme/Towel-On-The-Sunbed/readme.md) | Race conditions, Burp Suite, parallel requests | Public |
 | [CryptoCabana](Tryhackme/CryptoCabana/readme.md) | Azure Storage, SAS tokens, service principals and Key Vault secret versions | Public |
 | [The Hollow Shell](Tryhackme/The_Hollow_Shell/readme.md) | Default credentials, ZIP extraction, Zip Slip and reverse shell | Public |
+| [Infinity Pool](Tryhackme/Infinity_Pool/readme.md) | Command injection, internal service enumeration, SSH port forwarding, FreePBX and Linux privilege escalation | Published |
 
 ## About me
 
