@@ -4,7 +4,7 @@ Practical cybersecurity labs, CTF write-ups and academic projects.
 
 ## TryHackMe write-ups
 
-The write-ups below document challenges completed in authorised TryHackMe training environments. Hacker Holidays 2026 write-ups remain private while the event is active.
+The write-ups below document challenges completed in authorised TryHackMe training environments. Hacker Holidays 2026 write-ups are now public
 
 | Challenge | Category | Key topics | Status |
 |---|---|---|---|
@@ -12,6 +12,7 @@ The write-ups below document challenges completed in authorised TryHackMe traini
 | [CryptoCabana](Tryhackme/CryptoCabana/) | Cloud | Azure Storage, exposed SAS token, service principal access and Key Vault analysis | Public |
 | [Do Not Disturb](Tryhackme/Do-Not-Disturb/) | Web / Linux | NoSQL injection, EJS SSTI, Node.js Inspector and Linux privilege escalation | Public |
 | [Infinity Pool](Tryhackme/Infinity_Pool/) | Boot2Root | Web reconnaissance, command injection and Linux privilege escalation | Public |
+| [The GuestBook](Tryhackme/The_GuestBook/)             | AI                | Direct prompt injection, cross-entry context manipulation and broken authorisation boundaries | Public |
 | [The Hollow Shell](Tryhackme/The_Hollow_Shell/) | Web | Default credentials, malicious package upload, Zip Slip and reverse shell | Public |
 | [Towel on the Sunbed](Tryhackme/Towel-On-The-Sunbed/) | Web | Race conditions, Burp Suite and concurrent request testing | Public |
 
