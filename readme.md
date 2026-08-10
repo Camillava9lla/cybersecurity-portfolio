@@ -12,6 +12,7 @@ The write-ups below document challenges completed in authorised TryHackMe traini
 | [CryptoCabana](Tryhackme/CryptoCabana/)               | Cloud                    | Azure Storage, exposed SAS token, service principal access and Key Vault analysis             | Public |
 | [Do Not Disturb](Tryhackme/Do-Not-Disturb/)           | Web / Linux              | NoSQL injection, EJS SSTI, Node.js Inspector and Linux privilege escalation                   | Public |
 | [Infinity Pool](Tryhackme/Infinity_Pool/)             | Boot2Root                | Web reconnaissance, command injection and Linux privilege escalation                          | Public |
+| [Management Wants a Word](Tryhackme/Management-Wants-A-Word/) | Digital forensics | Windows Registry, LSA secrets, DPAPI, Chrome credential decryption, AES-GCM and VeraCrypt | Public |
 | [Passive Reconnaissance](Tryhackme/Passive_Reconnaissance/) | Network reconnaissance | WHOIS, RDAP, DNS enumeration, Certificate Transparency, DNSDumpster and Shodan                | Public |
 | [The GuestBook](Tryhackme/The_GuestBook/)             | AI security              | Direct prompt injection, cross-entry context manipulation and broken authorisation boundaries | Public |
 | [The Hollow Shell](Tryhackme/The_Hollow_Shell/)       | Web                      | Default credentials, malicious package upload, Zip Slip and reverse shell                     | Public |
