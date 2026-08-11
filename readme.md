@@ -14,6 +14,7 @@ The write-ups below document challenges completed in authorised TryHackMe traini
 | [Infinity Pool](Tryhackme/Infinity_Pool/)             | Boot2Root                | Web reconnaissance, command injection and Linux privilege escalation                          | Public |
 | [Management Wants a Word](Tryhackme/Management_Wants_a_Word/) | Digital forensics | Windows Registry, LSA secrets, DPAPI, Chrome credential decryption, AES-GCM and VeraCrypt | Public |
 | [Passive Reconnaissance](Tryhackme/Passive_Reconnaissance/) | Network reconnaissance | WHOIS, RDAP, DNS enumeration, Certificate Transparency, DNSDumpster and Shodan                | Public |
+| [Protocols and Servers](Tryhackme/Protocols_and_Servers/)     | Network fundamentals   | HTTP, FTP, SMTP, POP3, IMAP, Telnet and cleartext protocol communication                      | Public |
 | [The GuestBook](Tryhackme/The_GuestBook/)             | AI security              | Direct prompt injection, cross-entry context manipulation and broken authorisation boundaries | Public |
 | [The Hollow Shell](Tryhackme/The_Hollow_Shell/)       | Web                      | Default credentials, malicious package upload, Zip Slip and reverse shell                     | Public |
 | [Towel on the Sunbed](Tryhackme/Towel-On-The-Sunbed/) | Web                      | Race conditions, Burp Suite and concurrent request testing                                    | Public |
