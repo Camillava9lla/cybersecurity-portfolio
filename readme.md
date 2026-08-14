@@ -44,6 +44,7 @@ These rooms document structured learning in cybersecurity fundamentals, networki
 | [Protocols and Servers](Tryhackme/Learning_Paths/Protocols_and_Servers/)     | Network fundamentals   | HTTP, FTP, SMTP, POP3, IMAP, Telnet and cleartext protocol communication       | Public |
 | [Python: Core Concepts](Tryhackme/Learning_Paths/Python_Core_Concepts/)      | Python fundamentals    | Variables, data types, strings, collections, operators and loops               | Public |
 | [Python: Building Scripts](Tryhackme/Learning_Paths/Python_Building_Scripts/) | Python scripting       | Functions, exception handling, file I/O, libraries and password checking       | Public |
+| [Python: Pentesting Scripts](Tryhackme/Learning_Paths/Python_Pentesting_Scripts/) | Security scripting | Web enumeration, ARP scanning, TCP port scanning, file downloads, hash cracking and SSH credential testing | Public |
 
 ---
 
