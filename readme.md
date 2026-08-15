@@ -45,6 +45,7 @@ These rooms document structured learning in cybersecurity fundamentals, networki
 | [Python: Core Concepts](Tryhackme/Learning_Paths/Python_Core_Concepts/)      | Python fundamentals    | Variables, data types, strings, collections, operators and loops               | Public |
 | [Python: Building Scripts](Tryhackme/Learning_Paths/Python_Building_Scripts/) | Python scripting       | Functions, exception handling, file I/O, libraries and password checking       | Public |
 | [Python: Pentesting Scripts](Tryhackme/Learning_Paths/Python_Pentesting_Scripts/) | Security scripting | Web enumeration, ARP scanning, TCP port scanning, file downloads, hash cracking and SSH credential testing | Public |
+| [Senior Security Analyst Intro](Tryhackme/Learning_Paths/SOC_Level_2/Senior_Security_Analyst_Intro/) | SOC Level 2 | Escalated alert investigation, event timeline analysis, detection rule development and tuning, incident response and threat intelligence | Public |
 
 ---
 
