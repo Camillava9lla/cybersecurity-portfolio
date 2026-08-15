@@ -47,6 +47,7 @@ These rooms document structured learning in cybersecurity fundamentals, networki
 | [Python: Pentesting Scripts](Tryhackme/Learning_Paths/Python_Pentesting_Scripts/) | Security scripting | Web enumeration, ARP scanning, TCP port scanning, file downloads, hash cracking and SSH credential testing | Public |
 | [Senior Security Analyst Intro](Tryhackme/Learning_Paths/SOC_Level_2/Senior_Security_Analyst_Intro/) | SOC Level 2 | Escalated alert investigation, event timeline analysis, detection rule development and tuning, incident response and threat intelligence | Public |
 | [SOC L2 Alert Triage](Tryhackme/Learning_Paths/SOC_Level_2/SOC_L2_Alert_Triage/) | SOC Level 2 | Escalated alert analysis, attack timelines, threat response, containment, credential rotation and lessons learned | Public |
+| [Report Writing for SOC L2](Tryhackme/Learning_Paths/SOC_Level_2/Report_Writing_for_SOC_L2/) | SOC Level 2 | Executive summaries, MSSP communication, DFIR handovers and responsible AI-assisted reporting | Public |
 
 ---
 
