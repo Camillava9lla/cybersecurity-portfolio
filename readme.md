@@ -49,6 +49,7 @@ These rooms document structured learning in cybersecurity fundamentals, networki
 | [SOC L2 Alert Triage](Tryhackme/Learning_Paths/SOC_Level_2/SOC_L2_Alert_Triage/) | SOC Level 2 | Escalated alert analysis, attack timelines, threat response, containment, credential rotation and lessons learned | Public |
 | [Report Writing for SOC L2](Tryhackme/Learning_Paths/SOC_Level_2/Report_Writing_for_SOC_L2/) | SOC Level 2 | Executive summaries, MSSP communication, DFIR handovers and responsible AI-assisted reporting | Public |
 | [Defensive Security Trends](Tryhackme/Learning_Paths/SOC_Level_2/Defensive_Security_Trends/) | SOC analysis | Rapid intrusions, valid accounts, infostealers, supply chain attacks, RMM abuse and AI security | Public |
+| [Splunk: Exploring SPL](Tryhackme/Learning_Paths/SOC_Level_2/Splunk_Exploring_SPL/) | SIEM and log analysis | SPL searches, filtering, timelines, statistical transformations, enrichment and anomaly detection | Public |
 
 ---
 
