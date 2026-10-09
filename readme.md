@@ -27,6 +27,7 @@ These rooms involved practical investigation, exploitation, analysis and problem
 |---|---|---|---|
 | [After Hours](Tryhackme/After_Hours/) | Digital forensics | WMI repository analysis, Base64, Deflate and static .NET analysis | Public |
 | [CryptoCabana](Tryhackme/CryptoCabana/) | Cloud security | Azure Storage, exposed SAS token, service principal access and Key Vault analysis | Public |
+| [Deja Vu](Tryhackme/Deja_Vu/) | Web exploitation / Linux | ExifTool RCE (CVE-2021-22204), Gobuster, Burp Suite, Metasploit, reverse shell, SUID and PATH hijacking | Public |
 | [Do Not Disturb](Tryhackme/Do-Not-Disturb/) | Web / Linux | NoSQL injection, EJS SSTI, Node.js Inspector and Linux privilege escalation | Public |
 | [Infinity Pool](Tryhackme/Infinity_Pool/) | Boot2Root | Web reconnaissance, command injection and Linux privilege escalation | Public |
 | [Management Wants a Word](Tryhackme/Management_Wants_a_Word/) | Digital forensics | Windows Registry, LSA secrets, DPAPI, Chrome credential decryption, AES-GCM and VeraCrypt | Public |
