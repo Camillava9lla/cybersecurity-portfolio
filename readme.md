@@ -41,6 +41,7 @@ These rooms document structured learning in cybersecurity fundamentals, networki
 
 | Room                                                                         | Learning area          | Key topics                                                                     | Status |
 | ---------------------------------------------------------------------------- | ---------------------- | ------------------------------------------------------------------------------ | ------ |
+| [AttackerKB](Tryhackme/AttackerKB/) | Guided walkthrough / Web exploitation | Webmin backdoor (CVE-2019-15107), vulnerability research, Metasploit, HTTPS/TLS troubleshooting and root shell | Public |
 | [Passive Reconnaissance](Tryhackme/Learning_Paths/Passive_Reconnaissance/)   | Network reconnaissance | WHOIS, RDAP, DNS enumeration, Certificate Transparency, DNSDumpster and Shodan | Public |
 | [Protocols and Servers](Tryhackme/Learning_Paths/Protocols_and_Servers/)     | Network fundamentals   | HTTP, FTP, SMTP, POP3, IMAP, Telnet and cleartext protocol communication       | Public |
 | [Python: Core Concepts](Tryhackme/Learning_Paths/Python_Core_Concepts/)      | Python fundamentals    | Variables, data types, strings, collections, operators and loops               | Public |
