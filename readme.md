@@ -31,6 +31,7 @@ These rooms involved practical investigation, exploitation, analysis and problem
 | [Do Not Disturb](Tryhackme/Do-Not-Disturb/) | Web / Linux | NoSQL injection, EJS SSTI, Node.js Inspector and Linux privilege escalation | Public |
 | [Infinity Pool](Tryhackme/Infinity_Pool/) | Boot2Root | Web reconnaissance, command injection and Linux privilege escalation | Public |
 | [Management Wants a Word](Tryhackme/Management_Wants_a_Word/) | Digital forensics | Windows Registry, LSA secrets, DPAPI, Chrome credential decryption, AES-GCM and VeraCrypt | Public |
+| [One Piece](Tryhackme/One_Piece/) | Web exploitation / Linux privilege escalation | FTP enumeration, steganography, cookie manipulation, Hydra, multi-layer decoding, SSH, SUID exploitation and sudo privilege escalation | Public |
 | [The GuestBook](Tryhackme/The_GuestBook/) | AI security | Direct prompt injection, cross-entry context manipulation and broken authorisation boundaries | Public |
 | [The Hollow Shell](Tryhackme/The_Hollow_Shell/) | Web security | Default credentials, malicious package upload, Zip Slip and reverse shell | Public |
 | [Towel on the Sunbed](Tryhackme/Towel-On-The-Sunbed/) | Web security | Race conditions, Burp Suite and concurrent request testing | Public |
