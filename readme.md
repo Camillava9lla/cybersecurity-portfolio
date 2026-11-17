@@ -36,6 +36,14 @@ These rooms involved practical investigation, exploitation, analysis and problem
 | [The Hollow Shell](Tryhackme/The_Hollow_Shell/) | Web security | Default credentials, malicious package upload, Zip Slip and reverse shell | Public |
 | [Towel on the Sunbed](Tryhackme/Towel-On-The-Sunbed/) | Web security | Race conditions, Burp Suite and concurrent request testing | Public |
 
+### Networks
+
+These labs explore multi-stage attacks in simulated enterprise networks, focusing on Active Directory environments, credential exposure and practical enumeration techniques.
+
+| Network | Category | Key topics | Status |
+|---|---|---|---|
+| [Breaching Active Directory](Tryhackme/Networks/Breaching-Active-Directory/readme.md) | Active Directory / Network security | NTLM password spraying, LDAP pass-back, Responder and NetNTLMv2, PXE/MDT boot image analysis, McAfee configuration credential recovery | Public |
+
 ### Learning paths
 
 These rooms document structured learning in cybersecurity fundamentals, networking, reconnaissance and programming.
