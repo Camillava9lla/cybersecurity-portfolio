@@ -53,6 +53,7 @@ These walkthroughs document standalone TryHackMe rooms completed outside structu
 |---|---|---|---|
 | [AttackerKB](Tryhackme/Walkthroughs/AttackerKB/readme.md) | Web exploitation / Vulnerability research | Webmin backdoor (CVE-2019-15107), AttackerKB, Metasploit, HTTPS/TLS troubleshooting, reverse shell and root access | Public |
 | [Insecure Deserialisation](Tryhackme/Walkthroughs/Insecure_Deserialisation/readme.md) | Web exploitation / Application security | PHP object injection, insecure deserialisation, cookie manipulation, Base64 encoding, reverse shells, PHPGGC, Laravel gadget chains and RCE | Public |
+| [Intro to Pwntools](Tryhackme/Walkthroughs/Intro_To_Pwntools/readme.md) | Binary exploitation / Linux privilege escalation | Checksec, buffer overflows, cyclic patterns, EIP control, ret2win, TCP exploitation, shellcode, NOP sleds and SUID privilege escalation | Public |
 
 
 ### Learning paths
