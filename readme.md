@@ -44,6 +44,16 @@ These labs explore multi-stage attacks in simulated enterprise networks, focusin
 |---|---|---|---|
 | [Breaching Active Directory](Tryhackme/Networks/Breaching-Active-Directory/readme.md) | Active Directory / Network security | NTLM password spraying, LDAP pass-back, Responder and NetNTLMv2, PXE/MDT boot image analysis, McAfee configuration credential recovery | Public |
 
+
+### Walkthroughs
+
+These walkthroughs document standalone TryHackMe rooms completed outside structured learning paths. They provide step-by-step explanations of practical security testing, vulnerability exploitation, tools, techniques and lessons learned.
+
+| Room | Category | Key topics | Status |
+|---|---|---|---|
+| [Insecure Deserialisation](Tryhackme/Walkthroughs/Insecure_Deserialisation/readme.md) | Web exploitation / Application security | PHP object injection, insecure deserialisation, cookie manipulation, Base64 encoding, reverse shells, PHPGGC, Laravel gadget chains and RCE | Public |
+
+
 ### Learning paths
 
 These rooms document structured learning in cybersecurity fundamentals, networking, reconnaissance and programming.
